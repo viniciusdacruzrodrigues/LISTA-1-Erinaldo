@@ -1,3 +1,6 @@
+//NOME: VINICIUS DA CRUZ RODRIGUES
+//RA: 24214456-2
+//TURMA: ESOFT2S-N-D
 programa {
   funcao inicio() {
   cadeia nome1,nome2,nome3,nome4

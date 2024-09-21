@@ -6,7 +6,7 @@ programa {
   escreva("Digite a altura do cone em centimetros: ")
   leia(h)
   s=(3.1416*(r*r)*h)
-  escreva("O volume do cone é ",s," centimetros cubicos")
+  escreva("O volume do cone e ",s," centimetros cubicos")
     
   }
 }

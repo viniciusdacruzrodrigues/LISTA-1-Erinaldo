@@ -6,7 +6,7 @@ programa {
   escreva("Digite a altura: ")
   leia(altura)
   s=(base*altura)/2
-  escreva("A area do perimetro é igual a ",s)
+  escreva("A area do perimetro e igual a ",s)
 
   }
 }

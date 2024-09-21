@@ -14,6 +14,6 @@ programa {
   leia(salario)
 
   escreva("O salario de ",nome," de ",idade," anos que trabalha de ",profissao," tera 1,3% de desconto na folha do pagamento para custear\nseu plano de saude.\n")
-  escreva("Ou seja, o novo salario será de R$",salario*(1-0.013))
+  escreva("Ou seja, o novo salario sera de R$",salario*(1-0.013))
   }
 }

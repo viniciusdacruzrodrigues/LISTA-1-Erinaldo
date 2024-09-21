@@ -6,7 +6,7 @@ programa {
   escreva("Digite outro valor: ")
   leia(b)
   s=a+b
-  escreva("A soma de " ,a," com " ,b, " é igual a " ,s)
+  escreva("A soma de " ,a," com " ,b, " e igual a " ,s)
     
   }
 }

@@ -1,3 +1,6 @@
+//NOME: VINICIUS DA CRUZ RODRIGUES
+//RA: 24214456-2
+//TURMA: ESOFT2S-N-D
 programa {
   funcao inicio() {
   real n1,n2,n3,n4,n5,m
